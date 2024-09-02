@@ -1,7 +1,15 @@
 # Analyzing Walmart Sales Data with SQL
 ### Introduction
 
-* the "WalmartSalesData.csv" dataset contains detailed information about individual sales transactions at Walmart stores.. It includes details such as the Invoice ID, Branch, City, Customer type, Gender, Product line, Unit price, Quantity etc.
+*  Walmart is a large retail chain that sells a
+ wide range of products at low prices,
+ including groceries, clothing, electronics,
+ and more. This project uses a dataset
+ containing sales information from
+ Walmart stores in Myanmar for the year
+ 2019, providing a comprehensive overview
+ of sales transactions with various
+ attributes essential for detailed analysis
 ### Data Source :
 * The data source is [kaggle](https://www.kaggle.com/datasets/priyanshgoantiya/walmartsalesdata-csv/data).
 ### Overview of the Features
